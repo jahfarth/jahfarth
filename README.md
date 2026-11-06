@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jahfar%20T%20H&fontSize=60&fontColor=00ffd5&animation=fadeIn&fontAlignY=38&desc=Aspiring%20SOC%20Analyst%20%7C%20Cyber%20Security%20%26%20Forensics&descSize=18&descAlignY=60" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jahfar%20T%20H&fontSize=60&fontColor=00ffd5&animation=fadeIn&fontAlignY=38&desc=Aspiring%20SOC%20Analyst&descSize=18&descAlignY=60" width="100%" alt="header" />
 
 <div align="center">
 
@@ -55,14 +55,14 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jahfarth&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahfarth&layout=compact&theme=radical&hide_border=true" alt="top langs" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jahfarth&show_icons=true&theme=radical&hide_border=true" alt="stats" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jahfarth&layout=compact&theme=radical&hide_border=true" alt="top langs" />
 
 <img src="https://streak-stats.demolab.com/?user=jahfarth&theme=radical&hide_border=true" alt="streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=jahfarth&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
+<img src="https://trophy.ryglcloud.net/?username=jahfarth&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jahfarth&theme=react-dark&hide_border=true" alt="activity" />
+<img src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" alt="breakout game" />
 
 </div>
 
